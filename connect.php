@@ -11,5 +11,6 @@ else {
 	echo "Connection made";
 }
 $mysqli->close();
+#random code
 
 ?>
